@@ -1,0 +1,2 @@
+# Euchre
+Interactive Euchre game
